@@ -1,4 +1,4 @@
-This repository contains the original PyTorch implementation of the paper "Memory-efficient transformer network with feature fusion for breast tumor segmentation and classification task", which was published in the journal "Engineering Applications of Artificial Intelligence - Elsevier" with an impact factor of 8.0.
+This repository contains the original PyTorch implementation of the paper "**[Memory-efficient transformer network with feature fusion for breast tumor segmentation and classification task](https://doi.org/10.1016/j.eswa.2023.119718)**", which was published in the journal "Engineering Applications of Artificial Intelligence - Elsevier" with an impact factor of 8.0.
 
 ## Proposed Architecture
 <img src="images/Fig.1.png">
